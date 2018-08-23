@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## MyoPlan
 
 You can use the [editor on GitHub](https://github.com/joeyb16fl/joeyb16fl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
