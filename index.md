@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+title: Athletic Endurance presents MyoPlan Sports!
+description: Repository for all MyoPlan related code
+
 You can use the [editor on GitHub](https://github.com/joeyb16fl/joeyb16fl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
